@@ -10,7 +10,7 @@ It also includes **Password Strength Validation**, **Show/Hide Password**, **Err
 
 ## 🌐 Live Demo
 
-🔗 **[View Live Demo](YOUR_VERCEL_LINK)**
+🔗 **[View Live Demo](https://react-form-validation-project-wheat.vercel.app/)**
 
 > Replace `YOUR_VERCEL_LINK` with your deployed Vercel URL.
 
